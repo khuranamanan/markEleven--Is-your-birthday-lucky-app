@@ -1,6 +1,6 @@
 # markEleven Is Your Birthday Lucky App
 ## Description
-A website which will help you know more about triangles.
+A website which can help you to check whether your birthday is lucky or not.
 
 ## Acknowledgment
 This is the markEleven project of [levelZero](https://neog.camp/level-zero) course from [neog.camp](neog.camp). Here's the lesson [link.](https://neog.camp/guide/lessonSeven)
